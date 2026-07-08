@@ -8,5 +8,6 @@
 * 🧑‍💻 Jeevan Neupane
 * 🧑‍💻 Sagar Shahi
 * 🧑‍💻 Unish Suwal
+* 🧑‍💻 Umesh Dangi
 
 ✨ Building fitness solutions, learning together, and growing as a team.
